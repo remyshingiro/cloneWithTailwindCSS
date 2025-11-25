@@ -7,7 +7,7 @@ import Slide from './Slide'
 function App() {
 
   return (
-    <>
+    < >
     <Navbar/>
     <Hero/>
     <Slide/>
