@@ -1,7 +1,7 @@
 function Cards(){
     return(
         <>
-        <div className="h-200 bg-gray-200 ">
+        <div className="h-200 bg-gray-50 ">
             <div className="absolute top-365 left-110">
                 <div className="font-bold text-3xl"><p>Choose Your Plan</p></div>
             </div>
