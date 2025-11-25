@@ -3,6 +3,7 @@ import './Navbar'
 import Navbar from './Navbar'
 import Hero from "./HeroSection"
 import Slide from './Slide'
+import Features from './Features'
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
     <Navbar/>
     <Hero/>
     <Slide/>
+    <Features/>
 
       
     </>
