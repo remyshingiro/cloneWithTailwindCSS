@@ -6,7 +6,7 @@ function Navbar() {
                 <h5 class="w-26 h-6 absolute top-14 left-49 font-['Rubik'] font-medium text-xl leading-[100px] tracking-normal">Lasle <span class="font-['Rubik'] font-bold text-xl leading-[100px] tracking-normal">VPN</span></h5>
             </div>
             <section>
-                <a href="#" class="w-11 h-5 absolute top-14 left-114 font-['Rubik'] font-normal text-base leading-[100px] tracking-normal">About</a>
+                <a href="#" class="w-11 h-5 absolute top-14 left-114 font-['Rubik'] font-normal text-base leading-[100px] tracking-normal text-gray-50">About</a>
                 <a href="#" class="w-11 h-5 absolute top-14 left-135 font-['Rubik'] font-normal text-base leading-[100px] tracking-normal">Features</a>
                 <a href="#" class="w-11 h-5 absolute top-14 left-162 font-['Rubik'] font-normal text-base leading-[100px] tracking-normal">Testimonials</a>
                 <a href="#" class="w-11 h-5 absolute top-14 left-185 font-['Rubik'] font-normal text-base leading-[100px] tracking-normal">Pricing</a>
