@@ -78,7 +78,7 @@ pleasure when using this crazy feature.
   <div class="flex justify-between items-center">
   
     <div class="flex items-center space-x-4">
-      <img src='public/Ellipse 175 (2).png' class="w-12 h-12 rounded-full" alt="User profile"/>
+      <img src='/Ellipse 175 (2).png' class="w-12 h-12 rounded-full" alt="User profile"/>
       <div>
         <div class="font-bold ">Kim Young Jou</div>
         <div class="text-sm text-gray-500">Seoul, South Korea</div>
