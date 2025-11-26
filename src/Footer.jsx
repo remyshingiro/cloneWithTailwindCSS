@@ -2,7 +2,7 @@ function Footer(){
     return(
         <>
         <div className="h-120 bg-pink-50 ">
-            <div className="flex gap-80 bg-white w-200 ml-65 rounded-md h-30 shadow-lg">
+            <div className="flex gap-80 bg-white w-200 ml-65 rounded-md h-30 shadow-lg ">
                 <div className="ml-10 mt-3">
                     <p className="font-bold text-2xl">Subscribe Now for</p>
                     <p className="font-bold text-2xl">Get Special Features!</p>

@@ -2,8 +2,9 @@ function Customers(){
 
 
     return (
-
-<div className="px-20">
+        <>
+        <div className="bg-pink-50 h-110">
+            <div className="px-20">
 
 <div className="space-y-5">
 <div className="text-2xl font-bold ml-100">Trusted by Thousands of <br/> Happy Customers</div>
@@ -97,6 +98,10 @@ pleasure when using this crazy feature.
 
  </div>
     </div>
+
+
+        </div>
+</>
 )
 
 }
