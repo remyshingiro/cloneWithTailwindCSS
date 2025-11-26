@@ -10,8 +10,8 @@ function Map(){
                     <p className="text-gray-700">See LaslesVPN everywhere to make it easier for you when you move</p>
                     <p className="text-gray-700 absolute top-5 left-55">locations.</p>
              </div>
-             <img className="w-190 ml-60 absolute top-600 " src="public/Huge Global.png"/>
-             <img className="w-190 ml-60 absolute top-700 " src="public/Sponsored.png"/>
+             <img className="w-190 ml-60 absolute top-600 " src="/Huge Global.png"/>
+             <img className="w-190 ml-60 absolute top-700 " src="/Sponsored.png"/>
 
         </div>
         </>

@@ -6,7 +6,7 @@ function Slide(){
                <div className="absolute top-16 left-22">
                     <div className="flex gap-8">
                         <div className=" w-12 h-12 bg-pink-200 rounded-full place-items-center-safe">
-                            <img src="public/Group1216.png"/>
+                            <img src="/Group1216.png"/>
                         </div>
                         <div>
                             <h3 className="font-bold">90+</h3>
@@ -15,13 +15,13 @@ function Slide(){
                     </div>
                </div>
                <div className="absolute top-10 left-70">
-                <img src="public/Vector 14.png"/>
+                <img src="/Vector 14.png"/>
                </div>
 
                <div className="absolute top-16 left-100">
                     <div className="flex gap-8">
                         <div className=" w-12 h-12 bg-pink-200 rounded-full place-items-center-safe">
-                            <img src="public/Group 1215.png"/>
+                            <img src="/Group 1215.png"/>
                         </div>
                         <div>
                             <h3 className="font-bold">30+</h3>
@@ -31,13 +31,13 @@ function Slide(){
                </div>
 
                <div className="absolute top-10 left-170">
-                <img src="public/Vector 14.png"/>
+                <img src="/Vector 14.png"/>
                </div>
 
                <div className="absolute top-16 left-200">
                     <div className="flex gap-8">
                         <div className=" w-12 h-12 bg-pink-200 rounded-full place-items-center-safe">
-                            <img src="public/Group 1217.png"/>
+                            <img src="/Group 1217.png"/>
                         </div>
                         <div>
                             <h3 className="font-bold">50+</h3>

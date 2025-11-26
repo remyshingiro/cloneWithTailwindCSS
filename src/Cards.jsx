@@ -12,23 +12,23 @@ function Cards(){
 
              <div className="bg-white h-120 w-65 absolute top-400 left-30 rounded-sm">
                 <div className="">
-                    <img className="w-19 absolute top-15 left-22" src="public/Free.png"/>
+                    <img className="w-19 absolute top-15 left-22" src="/Free.png"/>
                     <p className="w-19 absolute top-39 left-22 font-bold">Free Plan</p>
                     
                     <div className="flex absolute top-55 left-9">
-                        <img src="public/jam_check.png"/>
+                        <img src="/jam_check.png"/>
                         <p className="text-gray-300">Unlimited Bandwitch</p>
                     </div>
                     <div className="flex absolute top-62 left-9">
-                        <img src="public/jam_check.png"/>
+                        <img src="/jam_check.png"/>
                         <p className="text-gray-300">Encrypted Connection</p>
                     </div>
                     <div className="flex absolute top-69 left-9">
-                        <img src="public/jam_check.png"/>
+                        <img src="/jam_check.png"/>
                         <p className="text-gray-300">No Traffic Logs</p>
                     </div>
                     <div className="flex absolute top-76 left-9">
-                        <img src="public/jam_check.png"/>
+                        <img src="/jam_check.png"/>
                         <p className="text-gray-300">Works on All Devices</p>
                     </div>
                     <div className="flex absolute top-92 left-26">
@@ -42,23 +42,23 @@ function Cards(){
 
              <div className="bg-white h-120 w-65 absolute top-400 left-120 rounded-sm">
                 <div className="">
-                    <img className="w-19 absolute top-15 left-22" src="public/Free.png"/>
+                    <img className="w-19 absolute top-15 left-22" src="/Free.png"/>
                     <p className="w-19 absolute top-39 left-22 font-bold">Standard Plan</p>
                     
                     <div className="flex absolute top-55 left-9">
-                        <img src="public/jam_check.png"/>
+                        <img src="/jam_check.png"/>
                         <p className="text-gray-300">Unlimited Bandwitch</p>
                     </div>
                     <div className="flex absolute top-62 left-9">
-                        <img src="public/jam_check.png"/>
+                        <img src="/jam_check.png"/>
                         <p className="text-gray-300">Encrypted Connection</p>
                     </div>
                     <div className="flex absolute top-69 left-9">
-                        <img src="public/jam_check.png"/>
+                        <img src="/jam_check.png"/>
                         <p className="text-gray-300">Yes Traffic Logs</p>
                     </div>
                     <div className="flex absolute top-76 left-9">
-                        <img src="public/jam_check.png"/>
+                        <img src="/jam_check.png"/>
                         <p className="text-gray-300">Connect Anyware</p>
                     </div>
                     <div className="flex absolute top-92 left-26">
@@ -73,23 +73,23 @@ function Cards(){
 
              <div className="bg-white h-120 w-65 absolute top-400 left-210 rounded-sm">
                 <div className="">
-                    <img className="w-19 absolute top-15 left-22" src="public/Free.png"/>
+                    <img className="w-19 absolute top-15 left-22" src="/Free.png"/>
                     <p className="w-10 absolute top-39 left-22 font-bold">Premium Plan</p>
                     
                     <div className="flex absolute top-55 left-9">
-                        <img src="public/jam_check.png"/>
+                        <img src="/jam_check.png"/>
                         <p className="text-gray-300">Unlimited Bandwitch</p>
                     </div>
                     <div className="flex absolute top-62 left-9">
-                        <img src="public/jam_check.png"/>
+                        <img src="/jam_check.png"/>
                         <p className="text-gray-300">Encrypted Connection</p>
                     </div>
                     <div className="flex absolute top-69 left-9">
-                        <img src="public/jam_check.png"/>
+                        <img src="/jam_check.png"/>
                         <p className="text-gray-300">No Traffic Logs</p>
                     </div>
                     <div className="flex absolute top-76 left-9">
-                        <img src="public/jam_check.png"/>
+                        <img src="/jam_check.png"/>
                         <p className="text-gray-300">Works on All Devices</p>
                     </div>
                     <div className="flex absolute top-92 left-26">
