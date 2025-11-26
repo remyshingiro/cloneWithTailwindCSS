@@ -31,7 +31,7 @@ function Footer(){
                 </div>
             </div>
 
-            <div className="flex gap-30 absolute left-150 top-800">
+            <div className="flex gap-30 absolute left-150 top-900">
                 <div>
                     <p className="font-bold">Product</p>
                     <p className="text-gray-400">Download</p>

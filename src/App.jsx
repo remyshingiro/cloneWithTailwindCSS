@@ -7,6 +7,7 @@ import Features from './Features'
 import Cards from './Cards'
 import Map from './Map'
 import Footer from './Footer'
+import Customers from './Customers'
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
     <Features/>
     <Cards/>
     <Map/>
+    <Customers/>
     <Footer/>
 
       
