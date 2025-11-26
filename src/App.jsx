@@ -6,6 +6,7 @@ import Slide from './Slide'
 import Features from './Features'
 import Cards from './Cards'
 import Map from './Map'
+import Footer from './Footer'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
     <Features/>
     <Cards/>
     <Map/>
+    <Footer/>
 
       
     </>
