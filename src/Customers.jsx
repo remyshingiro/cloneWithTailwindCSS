@@ -1,3 +1,6 @@
+import { ArrowLeft, ArrowRight, Dot} from "lucide-react";
+
+
 function Customers(){
 
 
@@ -101,6 +104,22 @@ pleasure when using this crazy feature.
 
 
         </div>
+
+
+
+      <div className=" flex bg-pink-50">
+                <section className="flex items-center text-gray-600 ml-10" >
+                <Dot className="w-7 h-2 border-2 bg-red-500 rounded-2xl text-red-500"/>
+                <Dot />
+                <Dot />
+                <Dot/> 
+                
+                </section>
+                <section className="ml-210 flex gap-2">
+                  <ArrowLeft className="w-10 h-10 border-2 rounded-3xl text-red-500 p-3"/>
+                  <ArrowRight className="w-10 h-10 rounded-3xl bg-red-500 text-white p-3"/>
+                </section>
+            </div>
 </>
 )
 
