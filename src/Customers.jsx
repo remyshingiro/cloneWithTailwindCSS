@@ -19,7 +19,7 @@ pleasure when using this crazy feature.
 
 <div className=" flex justify-between py-10 px-10 gap-8">
 
-<div class="flex flex-col justify-between border-3 border-red-500 w-110 h-52 p-4 rounded-2xl ">
+<div class="flex flex-col justify-between border-3 border-red-500 w-110 h-52 p-4 rounded-2xl bg-white">
 
   <div class="flex justify-between items-center">
   
@@ -50,7 +50,7 @@ pleasure when using this crazy feature.
 
 
 
-<div class="flex flex-col justify-between border-3 border-gray-300 w-110 h-52 p-4 rounded-2xl ">
+<div class="flex flex-col justify-between border-3 border-gray-300 w-110 h-52 p-4 rounded-2xl bg-white">
 
   <div class="flex justify-between items-center">
   
@@ -76,7 +76,7 @@ pleasure when using this crazy feature.
 
 {/* Third card */}
 
-<div class="flex flex-col justify-between border-3 border-gray-300 w-110 h-52 p-4 rounded-2xl ">
+<div class="flex flex-col justify-between border-3 border-gray-300 w-110 h-52 p-4 rounded-2xl bg-white">
 
   <div class="flex justify-between items-center">
   
